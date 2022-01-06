@@ -1,6 +1,6 @@
 # Atm-management-System
-A simple Atm software which is developed using Java and MySql database
+A simple Atm software which is developed using Java and MySql database.
 IDE:
-Eclipse neon
+Eclipse neon.,
 Server:
-Tomcat v9.0
+Tomcat v9.0.
